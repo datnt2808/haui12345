@@ -1,0 +1,283 @@
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.exe
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.deps.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.runtimeconfig.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.AssemblyReference.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfoInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfo.cs
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CoreCompileInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\scopedcss\bundle\AutoPro.API.styles.css
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CopyComplete
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\refint\AutoPro.API.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.genruntimeconfig.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\ref\AutoPro.API.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Dapper.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\XAct.Core.PCL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Effort.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\NMemory.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.staticwebassets.runtime.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Web.Http.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.staticwebassets.runtime.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.exe
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.deps.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.runtimeconfig.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Dapper.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Effort.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Web.Http.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\MySqlConnector.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\NMemory.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\XAct.Core.PCL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.AssemblyReference.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfoInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfo.cs
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.AutoPro.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoPro.API.props
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoPro.API.props
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoPro.API.props
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\scopedcss\bundle\AutoPro.API.styles.css
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CopyComplete
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\refint\AutoPro.API.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.genruntimeconfig.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\ref\AutoPro.API.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.staticwebassets.runtime.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.exe
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.deps.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.runtimeconfig.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Dapper.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Effort.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Web.Http.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\MySqlConnector.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\NMemory.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\XAct.Core.PCL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.AssemblyReference.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfoInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.AutoPro.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoPro.API.props
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoPro.API.props
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoPro.API.props
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\scopedcss\bundle\AutoPro.API.styles.css
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CopyComplete
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\refint\AutoPro.API.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.genruntimeconfig.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\ref\AutoPro.API.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.Development.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\appsettings.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.staticwebassets.runtime.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.exe
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.deps.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.runtimeconfig.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.API.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Dapper.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Effort.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\EntityFramework.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Web.Http.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\NMemory.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\XAct.Core.PCL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.BL.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.DL.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\VNpay.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.AssemblyReference.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfoInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.AssemblyInfo.cs
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CoreCompileInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.AutoPro.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoPro.API.props
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoPro.API.props
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoPro.API.props
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\scopedcss\bundle\AutoPro.API.styles.css
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.csproj.CopyComplete
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\refint\AutoPro.API.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\AutoPro.API.genruntimeconfig.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.API\obj\Debug\net6.0\ref\AutoPro.API.dll

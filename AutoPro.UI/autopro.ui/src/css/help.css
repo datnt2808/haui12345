@@ -1,0 +1,93 @@
+.content-help {
+    margin: 140px 100px 0 100px;
+    padding: 0 10px 8px 10px;
+    border-left: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    /* border-bottom: 1px solid #bbb; */
+    width: calc(100% - 200px);
+    box-sizing: border-box;
+}
+
+.help {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.nav-help {
+    width: 300px;
+    height: 150px;
+    border: 1px solid #bbb;
+}
+
+.nav-title {
+    width: 100%;
+    padding: 10px 10px;
+}
+
+.nav-help-item {
+    height: 36px;
+}
+
+.payment,
+.guarantee,
+.freeship {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    height: 36px;
+}
+
+.payment:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.guarantee:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.freeship:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.nav-help-content {
+    width: calc(100% - 300px);
+    padding: 10px;
+}
+
+.card-payment {
+    display: flex;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+.image-card img {
+    height: 150px;
+    border-right: 1px solid #bbb;
+    width: 200px;
+    padding: 10px;
+}
+
+.text-card {
+    padding-left: 10px;
+}
+
+.help-guarantee p {
+    font-size: 14px;
+}
+
+.content-help-guarantee p {
+    padding-left: 20px;
+}
+
+.help-payment p {
+    font-size: 14px;
+}
+
+.help-freeship p {
+    font-size: 14px;
+}

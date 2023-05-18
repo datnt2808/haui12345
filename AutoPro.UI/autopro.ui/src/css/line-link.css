@@ -1,0 +1,17 @@
+.div-link {
+    background-color: #f5f5f5;
+    padding: 10px;
+    /* position: sticky;
+    left: 250px;
+    top: 0; */
+    /* z-index: 1; */
+}
+
+.line-link {
+    text-decoration: none;
+    color: blue;
+}
+
+.line-link:hover {
+    color: red;
+}

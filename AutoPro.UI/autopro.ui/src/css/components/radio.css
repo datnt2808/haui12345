@@ -1,0 +1,64 @@
+.radio-default {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    padding-left: 20px;
+    margin-right: 20px;
+    font-family: Roboto;
+}
+
+.radio-default input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.radio-default input:focus {
+    outline: 1px solid #6195fe;
+}
+
+.checkmark-radio {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #afafaf;
+}
+
+.checkmark-radio:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.radio-default .checkmark-radio:after {
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: solid 3px white;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.radio-default input:checked~.checkmark-radio {
+    background: #2ca01c;
+    border: 1px solid #2ca01c;
+
+}
+
+.radio-default input:checked~.checkmark-radio:after {
+    display: block;
+}
+
+.genderValueSelect {
+    padding-top: 8px;
+    margin-left: 8px;
+    font-size: 14px;
+
+}

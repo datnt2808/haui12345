@@ -1,0 +1,45 @@
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.AssemblyReference.cache
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfoInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfo.cs
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CoreCompileInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.deps.json
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.dll
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.pdb
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CopyComplete
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.dll
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\refint\VNpay.dll
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.pdb
+D:\Do An Tot Nghiep\AutoPro.API\VNpay\obj\Debug\net6.0\ref\VNpay.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.deps.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.AssemblyReference.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfoInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CopyComplete
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\refint\VNpay.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\ref\VNpay.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.deps.json
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\VNpay.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.AssemblyReference.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfoInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.AssemblyInfo.cs
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CoreCompileInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.csproj.CopyComplete
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\refint\VNpay.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\VNpay.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\VNpay\obj\Debug\net6.0\ref\VNpay.dll

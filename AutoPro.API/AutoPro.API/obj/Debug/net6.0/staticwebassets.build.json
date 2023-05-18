@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "BxVduM/A2EL8Uzktlsler5UpNJciymUGJ4d9FyplH5o=",
+  "Source": "AutoPro.API",
+  "BasePath": "_content/AutoPro.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoPro.API\\wwwroot",
+      "Source": "AutoPro.API",
+      "ContentRoot": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\",
+      "BasePath": "_content/AutoPro.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\images\\2 (1).jpg",
+      "SourceId": "AutoPro.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\",
+      "BasePath": "_content/AutoPro.API",
+      "RelativePath": "images/2 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2 (1).jpg"
+    },
+    {
+      "Identity": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\images\\anh.jpg",
+      "SourceId": "AutoPro.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\",
+      "BasePath": "_content/AutoPro.API",
+      "RelativePath": "images/anh.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\anh.jpg"
+    },
+    {
+      "Identity": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\images\\bglogin.png",
+      "SourceId": "AutoPro.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\",
+      "BasePath": "_content/AutoPro.API",
+      "RelativePath": "images/bglogin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bglogin.png"
+    },
+    {
+      "Identity": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\images\\logo4.jpg",
+      "SourceId": "AutoPro.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DATN\\Haui\\AutoPro\\AutoPro.API\\AutoPro.API\\wwwroot\\",
+      "BasePath": "_content/AutoPro.API",
+      "RelativePath": "images/logo4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo4.jpg"
+    }
+  ]
+}

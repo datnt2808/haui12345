@@ -1,0 +1,55 @@
+.dashloadheader {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconh {
+    width: 24.5%;
+    height: 100%;
+    /* background-color: aqua; */
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.iconh:hover{
+    transform: scale(1.05);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 0.5s ease;
+}
+
+.i1 {
+    display: flex;
+    height: 120px;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.i12 {
+    width: calc(100% - 70px);
+    padding-top: 10px;
+}
+
+.i13 {
+    width: 80px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.i2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    height: 30px;
+    color: white;
+}

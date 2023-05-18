@@ -1,0 +1,124 @@
+.nav {
+    width: 250px;
+    height: calc(100vh - 60px);
+    /* height: 100vh; */
+    position: fixed;
+}
+
+.anav-header {
+    width: 249.5px;
+    height: 100px;
+    padding-left: 30%;
+    background-color: #041434;
+}
+
+.aheader-left img {
+    width: 100px;
+    height: 100px;
+}
+
+.admin-info {
+    width: 150px;
+    height: 150px;
+}
+
+.admin-info img {
+    height: 150px;
+    width: 150px;
+    /* padding:  10px 10px 10px 0; */
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-left: 30px;
+}
+
+.adminname {
+    display: flex;
+    color: white;
+    width: 100%;
+    align-items: center;
+    padding: 10px 45px;
+    /* background-color: white; */
+    position: relative;
+}
+
+.adminname:hover {
+    cursor: pointer;
+    color: blue;
+    /* background-color: white; */
+}
+
+.adminname:hover .under-admin-info {
+    display: block;
+}
+
+.under-admin-info {
+    position: absolute;
+    background-color: #fff;
+    top: 0;
+    margin: 35px 0;
+    display: none;
+}
+
+.anav-list {
+    /* height: calc(100vh - 100px); */
+    height: 100vh;
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    box-sizing: border-box;
+    border-right: 1px solid #bbb;
+    overflow-y: auto;
+    background-color: #041434;
+}
+
+.anav-item {
+    display: flex;
+    align-items: center;
+    height: 38px;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.anav-item+.anav-item {
+    margin-top: 4px;
+}
+
+.anav-item:hover {
+    background-color: #3395FF;
+}
+.anav__texts:hover{
+    color: white;
+}
+.anav-item i {
+    color: white;
+}
+
+.anav__text {
+    color: rgb(255, 254, 254);
+}
+
+.anav-menu{
+    position: relative;
+}
+
+.anav-submenu{
+    position: absolute;
+    display: none;
+    background-color: #ffffff;
+    width: 100%;
+    top: 36px;
+    left: 0;
+    border-radius: 4px;
+}
+
+.anav__texts {
+    color: rgb(0, 0, 0);
+}
+
+
+.anav-menu:hover .anav-submenu{
+    display: block;
+}

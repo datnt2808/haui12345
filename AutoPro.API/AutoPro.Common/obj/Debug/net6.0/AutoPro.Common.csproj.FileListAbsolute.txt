@@ -1,0 +1,60 @@
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.deps.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.AssemblyReference.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.Resource.resources
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.GenerateResource.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfoInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfo.cs
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.CoreCompileInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\refint\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\ref\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.DataResource.resources
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.deps.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.AssemblyReference.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.DataResource.resources
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.Resource.resources
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.GenerateResource.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfoInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfo.cs
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\refint\AutoPro.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\ref\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.deps.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.AssemblyReference.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.DataResource.resources
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.Resource.resources
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.GenerateResource.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfoInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\refint\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\ref\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.deps.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.AssemblyReference.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.DataResource.resources
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.Resource.Resource.resources
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.GenerateResource.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfoInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.AssemblyInfo.cs
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.csproj.CoreCompileInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\refint\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\AutoPro.Common.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.Common\obj\Debug\net6.0\ref\AutoPro.Common.dll

@@ -1,0 +1,118 @@
+.products-category {
+    display: flex;
+    height: auto;
+}
+
+.product-category-filter {
+    width: 300px;
+    height: 500px;
+    border: 1px solid #bbb;
+    padding: 10px 20px;
+}
+
+.product-category-content {
+    width: calc(100% - 300px);
+    border: 1px solid #bbb;
+}
+
+.product-category-title {
+    padding-left: 10px;
+}
+
+.list-product-category {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: auto;
+    padding: 10px 0;
+    width: 100%;
+    border-top: 1px solid #bbb;
+}
+
+.product-category {
+    height: 300px;
+    /* width: 24.5%; */
+    border: 1px solid black;
+    margin: 0 15px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: 4px;
+}
+
+.product-category-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.product-category-image img {
+    width: 100%;
+    min-width: 100%;
+    height: 210px;
+}
+
+.product-category-buttom {
+    position: absolute;
+}
+
+.product-category-image img:hover {
+    transform: scale(1.2);
+}
+
+.product-category-name {
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.product-category-price {
+    font-size: 14px;
+    text-align: center;
+}
+
+.favourtive {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.favourtive:hover {
+    color: red;
+}
+
+.product-category-buttom {
+    display: none;
+    font-size: 14px;
+}
+
+.product-category-detail,
+.product-category-cart {
+    border: 1px solid black;
+    border-radius: 4px;
+    line-height: 30px;
+    padding: 0 8px;
+    margin-left: 4px;
+}
+
+.product-category:hover .product-category-buttom {
+    display: block;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-category-cart:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.product-category-detail:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.filterProduct img {
+    position: absolute;
+    top: 236px;
+    left: 410px;
+    height: calc(100vh - 245px);
+    width: calc(100% - 410px - 100px);
+}

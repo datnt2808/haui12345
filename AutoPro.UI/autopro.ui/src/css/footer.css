@@ -1,0 +1,55 @@
+.footer {
+    margin: 0 100px;
+    padding-top: 20px;
+    /* border-bottom: 1px solid #bbb; */
+    padding-left: 20px;
+    width: calc(100% - 200px);
+    height: 390px;
+    display: flex;
+    background-color: #80f7ed;
+}
+
+.line-footer {
+    border-top: 1px solid #bbb;
+}
+
+.footer-left {
+    width: 400px;
+    height: 100%;
+}
+
+.footer-left img {
+    height: 150px;
+    width: 150px;
+}
+
+.contact img {
+    height: 30px;
+    width: 30px;
+    margin: 0 8px;
+}
+
+.certification img {
+    height: 80px;
+    width: 240px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.footer-right {
+    display: flex;
+    width: calc(100% - 400px);
+    height: 100%;
+}
+
+.address-store {
+    width: 600px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.sitemap {
+    height: 350px;
+    width: 350px;
+}

@@ -1,0 +1,27 @@
+.about {
+    margin: 140px 100px 0 100px;
+    padding: 0 10px 8px 10px;
+    border-left: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    /* border-bottom: 1px solid #bbb; */
+    width: calc(100% - 200px);
+}
+
+.about1 {
+    width: 100%;
+    margin-left: 10px;
+}
+.title-about+.title-about{
+    padding-top: 8px;
+
+}
+.title-about {
+    font-size: 18px;
+    padding-top: 8px;
+    font-weight: 600;
+}
+
+.content-about {
+    font-size: 14px;
+    padding-top: 8px;
+}

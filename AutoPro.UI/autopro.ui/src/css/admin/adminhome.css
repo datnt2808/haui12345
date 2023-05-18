@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ahomecontent{
+    position: relative;
+    display: flex;
+}
+
+
+.arouter-view-content{
+    position: sticky;
+    left: 250px;
+    width: calc(100% - 250px);
+}
+
+.admin-content{
+    width: 100%;
+    padding: 0 20px;
+    height: auto;
+}

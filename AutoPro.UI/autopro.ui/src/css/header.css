@@ -1,0 +1,187 @@
+.header {
+    width: calc(100% - 200px);
+    height: 100px;
+    display: flex;
+    margin: 0 100px;
+    position: fixed;
+    background-color: #80f7ed;
+    z-index: 2;
+    /* z-index: 1; */
+}
+
+.header-left {
+    display: flex;
+}
+
+.logo {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.logo>img {
+    width: 70px;
+    height: 70px;
+}
+
+.search {
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    margin-left: -36px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+
+.icon :hover {
+    color: aqua;
+}
+
+.header-right {
+    display: flex;
+    margin-left: 45px;
+    margin-top: 50px;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 0 10px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    width: 180px;
+}
+
+.user:hover {
+    color: white;
+    background-color: blue;
+}
+
+.info {
+    margin-left: 8px;
+    font-size: 14px;
+}
+
+.cart {
+    margin-left: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    cursor: pointer;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.cart:hover {
+    color: white;
+    background-color: blue;
+}
+
+.info-cart {
+    margin-left: 8px;
+    font-size: 14px;
+}
+
+.line-header {
+    border: 1px solid black;
+    margin: 0 100px;
+}
+
+.account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none;
+    width: 100%;    
+    color: rgb(0, 0, 0);
+}
+
+.account:hover {
+    background-color: blue;
+    color: white;
+}
+
+.user:hover .under-user {
+    display: block;
+}
+
+.under-user {
+    height: 163px;
+    width: 150px;
+    position: absolute;
+    z-index: 2;
+    top: 41px;
+    left: 0px;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: #eeeff1;
+    color: black;
+    display: none;
+    border: 1px solid #bbb;
+}
+
+.logout,
+.product-favorite,
+.details-user {
+    padding: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    height: 40px;
+}
+
+.logout:hover {
+    background-color: blue;
+    color: white;
+}
+
+.product-favorite:hover {
+    background-color: blue;
+    color: white;
+}
+
+.details-user:hover {
+    background-color: blue;
+    color: white;
+}
+
+.item-header {
+    text-decoration: none;
+    color: black;
+}
+
+
+.isLogin{
+    display: none !important;
+}
+
+.isNoLogin{
+    display: none !important;
+}

@@ -1,0 +1,117 @@
+.m-table {
+    width: 100%;
+    border: 1px solid #bbb;
+}
+
+.m-table thead {
+    margin-top: 10px;
+}
+
+.m-table thead tr {
+    margin-top: 40px;
+    height: 36px;
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+}
+
+.m-table tbody tr {
+    height: 100px;
+    font-size: 14px;
+    border-bottom: 1px solid #bbb;
+}
+
+.product-cart {
+    display: flex;
+    height: 150px;
+    border: unset;
+}
+
+.product-cart img {
+    height: 100px;
+    width: 100px;
+    margin: 20px 0;
+}
+
+.product-cart-name {
+    margin-left: 10px;
+    padding-top: 10px;
+    width: calc(300px - 150px);
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 100;
+    text-align: left;
+}
+
+.number {
+    display: flex;
+    align-items: center;
+    border: 1px solid #bbb;
+    justify-content: space-evenly;
+    height: 36px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+.pay {
+    /* margin: 0 100px; */
+    padding: 20px 0 8px 0;
+    /* border-left: 1px solid #bbb;
+    border-right: 1px solid #bbb; */
+    /* border-bottom: 1px solid #bbb; */
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.total-pay {
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+.purchase button {
+    height: 36px;
+    padding: 0 10px;
+    border-radius: 4px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.cart-method {
+    border: 1px solid black;
+    width: 50px;
+    padding-left: 10px;
+    border-radius: 4px;
+    background-color: #A5D7E8;
+}
+
+.cart-method:hover{
+    color: red;
+}
+.nocart{
+    position: relative;
+}
+.nocart img{
+    height: calc(100vh - 300px);
+    margin: 0 100px;
+    width: calc(100% - 100px);
+}
+
+.nocart h4{
+    position: absolute;
+    top: 94%;
+    left: 40%;
+    color: black;
+}
+
+.nocart h5{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: red
+}

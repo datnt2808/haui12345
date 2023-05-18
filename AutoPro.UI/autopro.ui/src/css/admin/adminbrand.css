@@ -1,0 +1,15 @@
+.ImageNone{
+    display: block !important;
+}
+.row-selected {
+    background-color: #e5f3ff;
+}
+
+.atable-header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid #000;
+}

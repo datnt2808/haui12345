@@ -1,0 +1,122 @@
+.purcharse {
+    display: flex;
+    height: auto;
+}
+
+.information-user-order {
+    width: 600px;
+    height: 380px;
+    position: relative;
+}
+
+.title-purcharse-user {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.title-purcharse-user h6 {
+    font-weight: 800;
+}
+
+.user-update {
+    padding-right: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+.user-update:hover {
+    color: red;
+}
+
+.purcharse-name,
+.purcharse-address,
+.purcharse-phone-number,
+.purcharse-payment-methods {
+    display: flex;
+    height: 40px;
+    margin: 10px;
+    align-items: center;
+}
+
+.purcharse-name h6,
+.purcharse-address h6,
+.purcharse-phone-number h6,
+.purcharse-payment-methods h6 {
+    width: 200px;
+}
+
+.information-product {
+    width: calc(100% - 600px);
+    height: auto;
+    border-left: 1px solid #bbb;
+    height: auto;
+    position: relative;
+}
+
+.information-product h6 {
+    font-weight: 800;
+    padding: 10px;
+}
+
+.product-purchase {
+    height: 130px;
+    display: flex;
+    width: 100%;
+    margin: 10px 0;
+    border-bottom: 1px solid #bbb;
+}
+
+.product-purchase-image img {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+}
+
+.product-purchase-name {
+    width: calc(100% - 100px - 50px);
+    margin-left: 8px;
+}
+
+.product-purchase-totalmoney {
+    width: 150px;
+    position: relative;
+}
+
+.thungracdonhang{
+    position: absolute;
+    top: 60px;
+    cursor: pointer;
+    right: 40px;
+}
+
+.total {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    bottom: 0;
+    height: 30px;
+    padding: 0 50px 0 10px;
+    border-bottom: 1px solid #bbb;
+}
+
+
+.order-purchase {
+    margin-top: 10px;
+    margin-left: 1200px;
+}
+
+.order-purchase button {
+    padding: 0 10px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+.m-inputp:focus {
+    border: 1px solid #019160;
+}

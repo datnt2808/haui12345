@@ -1,0 +1,27 @@
+.details-news-title{
+    font-size: 20px;
+    color: blue;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.details-news-time{
+    font-size: 14px;
+}
+
+.details-news-image{
+    text-align: center;
+}
+
+.details-news-image img{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #bbb;
+}
+
+.details-news-content{
+    font-size: 16px;
+    height: auto;
+    margin-top: 20px;
+}

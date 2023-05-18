@@ -1,0 +1,68 @@
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.deps.json
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.AssemblyReference.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfoInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfo.cs
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CoreCompileInputs.cache
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CopyComplete
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\refint\AutoPro.BL.dll
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.pdb
+D:\Do An Tot Nghiep\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\ref\AutoPro.BL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.deps.json
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.AssemblyReference.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfoInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfo.cs
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CopyComplete
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\refint\AutoPro.BL.dll
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\ref\AutoPro.BL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.deps.json
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.AssemblyReference.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfoInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfo.cs
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CoreCompileInputs.cache
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CopyComplete
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\refint\AutoPro.BL.dll
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.pdb
+E:\Dang\Do an\11-5\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\ref\AutoPro.BL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.deps.json
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.BL.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.Common.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\bin\Debug\net6.0\AutoPro.DL.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.AssemblyReference.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfoInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.AssemblyInfo.cs
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CoreCompileInputs.cache
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.csproj.CopyComplete
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\refint\AutoPro.BL.dll
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\AutoPro.BL.pdb
+D:\DATN\Haui\AutoPro\AutoPro.API\AutoPro.BL\obj\Debug\net6.0\ref\AutoPro.BL.dll
