@@ -134,6 +134,7 @@ import ApiProduct from '../../js/apiProduct';
 import MSelectBox from '@/components/MSelectBox.vue';
 import MSelectBoxDown from '@/components/MSelectBoxDown.vue';
 import enumAUTO from '@/js/gEnum';
+import base from '@/js/baseService';
 export default {
     /**
            * Tên component
@@ -299,7 +300,7 @@ export default {
                     listOrderBy: this.orderBy
                 }
                 // console.log(objectFilter);
-                axios.post("https://localhost:7129/api/v1/Product/PagingProductByFilter", objectFilter)
+                axios.post(`${base.prototype.getBaseService()}Product/PagingProductByFilter`, objectFilter)
                     .then((res) => {
                         if (res.status == 200 && res.data.data.length > 0) {
                             this.showLoading = false;

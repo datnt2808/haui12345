@@ -85,6 +85,7 @@ import MSelectBoxDown from "@/components/MSelectBoxDown.vue";
 import ProductComment from "./ProductComment.vue";
 import ReturnOrder from "./ReturnOrder.vue";
 import { faL } from '@fortawesome/free-solid-svg-icons';
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -262,7 +263,7 @@ export default {
         idOrder: data,
         statusOrder: 1,
       }
-      axios.post("https://localhost:7129/api/v1/Orders/updateOrderByStatus", param)
+      axios.post(`${base.prototype.getBaseService()}Orders/updateOrderByStatus`, param)
         .then((res) => {
           console.log(res);
           if (res.status == 200) {

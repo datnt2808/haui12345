@@ -45,6 +45,7 @@ import MLoading from "@/components/MLoading.vue";
 import axios from "axios";
 import { faL } from "@fortawesome/free-solid-svg-icons";
 import ApiUser from "../../js/apiUser";
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -73,7 +74,7 @@ export default {
       };
       try {
         const response = await axios.post(
-          "https://localhost:7129/api/v1/ProductComment/UpdateCommentbyOrderDetailProduct",
+          `${base.prototype.getBaseService()}ProductComment/UpdateCommentbyOrderDetailProduct`,
           orderDetailProduct
         );
 
@@ -98,7 +99,7 @@ export default {
         ratingID: this.rating,
       };
       await axios
-        .post("https://localhost:7129/api/v1/ProductComment", comment)
+        .post(`${base.prototype.getBaseService()}ProductComment`, comment)
         .then((res) => {
           if (res.status == 201) {
             const updateResult = this.updateproductComment();

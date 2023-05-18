@@ -122,6 +122,7 @@ import { formatStatusProduct, formatDate, formatMoney } from '@/js/gCommon'
 import ApiProduct from '../../js/apiProduct';
 import ApiBrand from '../../js/apiBrand';
 import StarRating from 'vue-star-rating'
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -287,7 +288,7 @@ export default {
     },
 
     getCommnetbyProduct(idProducts) {
-      axios.get('https://localhost:7129/api/v1/ProductComment/ListCommentByPorduct', { params: { idProduct: idProducts } })
+      axios.get(`${base.prototype.getBaseService()}ProductComment/ListCommentByPorduct`, { params: { idProduct: idProducts } })
         .then((res) => {
           if (res.status == 200) {
             this.dataComment = res.data;

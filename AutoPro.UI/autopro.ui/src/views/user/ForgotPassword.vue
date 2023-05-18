@@ -41,6 +41,7 @@ import TheNavbar from '@/layout/TheNavbar.vue';
 import MInput from '@/components/MInput.vue';
 import TheLineLink from '@/layout/TheLineLink.vue';
 import axios from 'axios';
+import base from '@/js/baseService';
 export default {
     /**
          * Tên component
@@ -88,7 +89,7 @@ export default {
         },
 
         forgotPassword() {
-            axios.post("https://localhost:7129/api/v1/User/forgotpassword", { account: this.account, email: this.email })
+            axios.post(`${base.prototype.getBaseService()}User/forgotpassword`, { account: this.account, email: this.email })
                 .then((res) => {
                     if (res.status == 200) {
                         alert("Email đã được gửi về email của quý khách");
@@ -113,7 +114,7 @@ export default {
                         <br>
                         Mật khẩu của bạn là ${pass}`
             }
-            await axios.post("https://localhost:7129/api/Mail/send", emailSend)
+            await axios.post(`${base.prototype.getBaseService()}Mail/send`, emailSend)
                 .then((res) => {
                     console.log(res);
                 })

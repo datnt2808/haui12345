@@ -139,6 +139,7 @@ import axios from "axios";
 import { formatMoney, formatNumber } from "@/js/gCommon";
 import MSelectBoxDown from "@/components/MSelectBoxDown.vue";
 import ApiBrand from "../../js/apiBrand";
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -253,7 +254,7 @@ export default {
         // console.log(objectFilter);
         await axios
           .post(
-            "https://localhost:7129/api/v1/Product/PagingProductByFilter",
+            `${base.prototype.getBaseService()}Product/PagingProductByFilter`,
             objectFilter
           )
           .then((res) => {

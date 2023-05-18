@@ -162,6 +162,7 @@ import Resource from "@/js/gResource";
 import MDatePicker from "@/components/MDatePicker.vue";
 import { formatMoney } from "@/js/gCommon";
 import { faL } from "@fortawesome/free-solid-svg-icons";
+import base from "@/js/baseService";
 export default {
   /**
    * Tên component
@@ -292,29 +293,49 @@ export default {
     },
 
     cancelOrderDetail() {
-      const me = this;
-      this.prepareBeforeHandle();
-      this.customer["statusOrders"] = 3; // chờ tiếp nhận
-      let orderParam = {
-        order: JSON.stringify(this.customer),
-        orderdetail: JSON.stringify(this.orderDetail),
-      };
-      console.log(this.customer);
-      console.log(this.orderDetail);
-      console.log(orderParam);
-      // Xác nhận đơn hàng
-      axios.post(ApiOrder.updateOrderDetail(), orderParam).then((res) => {
-        if (res.status === 200) {
-          alert("Hủy đơn hàng thành công");
-          this.$emit("success");
-          this.$emit("onClose");
-          this.$toast.success("Hủy đơn hàng thành công");
-        } else {
-          alert("Hủy đơn hàng thất bại");
-          this.$toast.error("Hủy đơn hàng thất bại");
-          this.$emit("onClose");
-        }
-      });
+      let param = {
+        idOrder: this.id,
+        statusOrder: 3,
+        reason: this.customer.reason
+      }
+      // console.log(param);
+      axios.post(`${base.prototype.getBaseService()}Orders/updateOrderByStatus`, param)
+        .then((res) => {
+          console.log(res);
+          if (res.status == 200) {
+            this.$toast.success("Đơn hàng đã bị hủy");
+            this.$emit("onClose");
+            this.$emit("success")
+          }
+        })
+        .catch((res) => {
+          console.log(res);
+          this.$toast.error("Có lỗi xảy ra")
+        })
+
+      // const me = this;
+      // this.prepareBeforeHandle();
+      // this.customer["statusOrders"] = 3; // chờ tiếp nhận
+      // let orderParam = {
+      //   order: JSON.stringify(this.customer),
+      //   orderdetail: JSON.stringify(this.orderDetail),
+      // };
+      // console.log(this.customer);
+      // console.log(this.orderDetail);
+      // console.log(orderParam);
+      // // Xác nhận đơn hàng
+      // axios.post(ApiOrder.updateOrderDetail(), orderParam).then((res) => {
+      //   if (res.status === 200) {
+      //     alert("Hủy đơn hàng thành công");
+      //     this.$emit("success");
+      //     this.$emit("onClose");
+      //     this.$toast.success("Hủy đơn hàng thành công");
+      //   } else {
+      //     alert("Hủy đơn hàng thất bại");
+      //     this.$toast.error("Hủy đơn hàng thất bại");
+      //     this.$emit("onClose");
+      //   }
+      // });
     },
 
     writeComment(data) {

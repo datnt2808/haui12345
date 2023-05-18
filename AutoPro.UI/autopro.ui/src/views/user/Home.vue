@@ -126,6 +126,7 @@ import enumAUTO from "@/js/gEnum";
 import ApiBrand from "../../js/apiBrand";
 import ApiProduct from "../../js/apiProduct";
 import { formatMoney } from "@/js/gCommon";
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -245,7 +246,7 @@ export default {
         // console.log(objectFilter);
         await axios
           .post(
-            "https://localhost:7129/api/v1/Product/PagingProductByFilter",
+            `${base.prototype.getBaseService()}Product/PagingProductByFilter`,
             objectFilter
           )
           .then((res) => {

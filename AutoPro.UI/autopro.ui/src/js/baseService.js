@@ -1,6 +1,6 @@
 class base {
     getBaseService() {
-        return "https://localhost:7129/api/v1/";
+        return process.env.VUE_APP_ROOT_API;
     }
 }
 export default base

@@ -185,6 +185,7 @@ import MLoading from '@/components/MLoading.vue';
 import AdminLineLink from '@/layout/AdminLineLink.vue';
 import axios from 'axios';
 import { formatMoney } from "@/js/gCommon"
+import base from '@/js/baseService';
 
 export default {
     /**
@@ -263,7 +264,7 @@ export default {
         }
         this.showLoading = true;
         setTimeout(() => {
-            axios.get("https://localhost:7129/api/v1/Dashload")
+            axios.get(`${base.prototype.getBaseService()}Dashload`)
                 .then((res) => {
                     this.showLoading = false;
                     this.dashload = res.data;

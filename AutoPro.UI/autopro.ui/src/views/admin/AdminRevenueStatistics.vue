@@ -92,6 +92,7 @@ import MLoading from '@/components/MLoading.vue';
 import MCombobox from '@/components/MCombobox.vue';
 import MSelectBoxDown from '@/components/MSelectBoxDown.vue';
 import MYear from '@/components/MYear.vue';
+import base from '@/js/baseService';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement)
 
 export default {
@@ -197,7 +198,7 @@ export default {
     methods: {
         thongKeTheoNhanHangTheoThang() {
             this.showLoading = true;
-            axios.post("https://localhost:7129/api/v1/Orders/getReportRevenueByBranch", { month: this.month, year: this.year })
+            axios.post(`${base.prototype.getBaseService()}Orders/getReportRevenueByBranch`, { month: this.month, year: this.year })
                 .then((res) => {
                     if (res.status = 200 && res.data.length > 0) {
                         for (let i = 0; i < res.data.length; i++) {
@@ -236,7 +237,7 @@ export default {
 
         thongKeTheoNam() {
             this.showLoading2 = true;
-            axios.get("https://localhost:7129/api/v1/Orders/getReportRevenueByYear", { params: { byYear: this.byYear } })
+            axios.get(`${base.prototype.getBaseService()}Orders/getReportRevenueByYear`, { params: { byYear: this.byYear } })
                 .then((res) => {
                     // console.log(res.data);
                     // this.showLoading = false;
@@ -273,7 +274,7 @@ export default {
 
         thongKeTheoQuy() {
             this.showLoading3 = true;
-            axios.get("https://localhost:7129/api/v1/Orders/getReportRevenueByYear", { params: { byYear: this.byYearQuarterly } })
+            axios.get(`${base.prototype.getBaseService()}Orders/getReportRevenueByYear`, { params: { byYear: this.byYearQuarterly } })
                 .then((res) => {
                     // console.log(res.data);
                     // this.showLoading = false;

@@ -148,6 +148,7 @@ import axios from 'axios';
 import Resource from '@/js/gResource';
 import MDatePicker from '@/components/MDatePicker.vue';
 import { formatMoney } from "@/js/gCommon"
+import base from '@/js/baseService';
 export default {
     /**
      * Tên component
@@ -279,7 +280,7 @@ export default {
                 reason: this.customer.reason
             }
             // console.log(param);
-            axios.post("https://localhost:7129/api/v1/Orders/updateOrderByStatus", param)
+            axios.post(`${base.prototype.getBaseService()}Orders/updateOrderByStatus`, param)
                 .then((res) => {
                     console.log(res);
                     if (res.status == 200) {
@@ -332,7 +333,7 @@ export default {
                 reason: this.customer.reason
             }
             // console.log(param);
-            axios.post("https://localhost:7129/api/v1/Orders/updateOrderByStatus", param)
+            axios.post(`${base.prototype.getBaseService()}Orders/updateOrderByStatus`, param)
                 .then((res) => {
                     console.log(res);
                     if (res.status == 200) {

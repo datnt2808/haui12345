@@ -78,7 +78,7 @@
                     <div class="acol1-text" style="margin-left: 15px;">
                         Nhãn hàng :
                     </div>
-                    <MCombobox api="https://localhost:7129/api/v1/Brand" v-model="product.brandID" propValue="brandID"
+                    <MCombobox :api="`${base.prototype.getBaseService()}Brand`" v-model="product.brandID" propValue="brandID"
                         propName="brandName" ref="cbxBrand"></MCombobox>
                     <!-- <MInput type="text" v-model="product.brandID"
                         styleInput="width: 250px; height: 30px; font-size:13px; padding-left:15px; border-radius:4px;box-sizing: border-box;">
@@ -88,7 +88,7 @@
                     <div class="acol1-text" style="margin-left: 15px;">
                         Danh mục :
                     </div>
-                    <MCombobox api="https://localhost:7129/api/v1/ProductCategory" v-model="product.categoryID"
+                    <MCombobox :api="`${base.prototype.getBaseService()}ProductCategory`" v-model="product.categoryID"
                         propValue="categoryID" propName="categoryName" ref="cbxCategory"></MCombobox>
                 </div>
             </div>
@@ -132,6 +132,7 @@ import {
 import MLoading from '@/components/MLoading.vue';
 import ApiProduct from '../../js/apiProduct';
 import MCombobox from '@/components/MCombobox.vue';
+import base from '@/js/baseService';
 export default {
     /**
      * Tên component

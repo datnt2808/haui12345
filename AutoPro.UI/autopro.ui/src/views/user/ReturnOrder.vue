@@ -30,6 +30,7 @@ import MInput from "@/components/MInput.vue";
 import MLoading from "@/components/MLoading.vue";
 import axios from "axios";
 import ApiUser from "../../js/apiUser";
+import base from "@/js/baseService";
 
 export default {
     /**
@@ -60,7 +61,7 @@ export default {
                 statusOrder: 5,
                 reason: this.detail
             }
-            axios.post("https://localhost:7129/api/v1/Orders/updateOrderByStatus", param)
+            axios.post(`${base.prototype.getBaseService()}Orders/updateOrderByStatus`, param)
                 .then((res) => {
                     console.log(res);
                     if(res.status == 200){

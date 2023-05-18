@@ -36,13 +36,18 @@ class UserService extends base {
     filterUser(key = '', pageSize, pageNumber) {
         return `${this.getAll()}/Filter?textSearch=${key}&pageSize=${pageSize}&pageNumber=${pageNumber}`;
     }
+    
+    getALProductComment(){
+        let urlMain = `${this.getBaseService()}ProductComment`;
+        return urlMain;
+    }
 
     filterComment(key = '', pageSize, pageNumber) {
-        return `https://localhost:7129/api/v1/ProductComment/Filter?textSearch=${key}&pageSize=${pageSize}&pageNumber=${pageNumber}`;
+        return `${this.getALProductComment()}/Filter?textSearch=${key}&pageSize=${pageSize}&pageNumber=${pageNumber}`;
     }
 
     deleteComment(id) {
-        return `https://localhost:7129/api/v1/ProductComment/${id}`;
+        return `${this.getALProductComment()}/${id}`;
     }
 
 }

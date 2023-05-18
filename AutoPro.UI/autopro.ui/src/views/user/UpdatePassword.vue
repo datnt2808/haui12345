@@ -52,6 +52,7 @@ import MInput from '@/components/MInput.vue';
 import MLoading from '@/components/MLoading.vue';
 import axios from 'axios';
 import Resource from '@/js/gResource';
+import base from '@/js/baseService';
 export default {
     /**
      * Tên component
@@ -134,7 +135,7 @@ export default {
         },
 
         updatePasswordNew() {
-            axios.put("https://localhost:7129/api/v1/User/updatePassword", { passold: this.passwordOld, id: this.idUser, passnew: this.passwordNew })
+            axios.put(`${base.prototype.getBaseService()}User/updatePassword`, { passold: this.passwordOld, id: this.idUser, passnew: this.passwordNew })
                 .then((res) => {
                     console.log(res);
                     if (res.status == 200) {

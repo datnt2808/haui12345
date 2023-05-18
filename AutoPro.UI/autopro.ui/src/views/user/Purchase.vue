@@ -157,6 +157,7 @@ import ApiUser from "../../js/apiUser";
 import MLoading from "@/components/MLoading.vue";
 import MRadio from "@/components/MRadio.vue";
 import ApiOrder from "../../js/apiOrder";
+import base from "@/js/baseService";
 
 export default {
   /**
@@ -225,7 +226,7 @@ export default {
       let totalAmount = this.totalAmount;
       console.log(totalAmount);
       axios
-        .post("https://localhost:7129/api/PayMent/redirect-vnpay", {
+        .post(`${base.prototype.getBaseService()}PayMent/redirect-vnpay`, {
           totalAmount: totalAmount,
         })
         .then((res) => {
@@ -354,7 +355,7 @@ export default {
                         HaUI`,
       };
       axios
-        .post("https://localhost:7129/api/Mail/send", this.email)
+        .post(`${base.prototype.getBaseService()}Mail/send`, this.email)
         .then((res) => {
           console.log(res);
           // this.$toast.success("Email được gửi thành công")
